@@ -1,0 +1,4 @@
+apispec==6.8.4
+marshmallow==4.0.1
+packaging==25.0
+PyYAML==6.0.2
